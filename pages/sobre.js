@@ -2,11 +2,11 @@ import Link from 'next/link';
 
 // enviar pro git git push origin main
 
-function Home(){
+function Sobre(){
     return(
         <div>
-            <Link href="/sobre">
-            <a> Acessar Página Sobre</a>
+            <Link href="/">
+            <a> Acessar Página Home</a>
             </Link>
         </div>
     
@@ -14,4 +14,4 @@ function Home(){
 }
 
 
-export default Home;
+export default Sobre;
