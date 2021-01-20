@@ -6,7 +6,7 @@ function Home(){
     return(
         <div>
             <Link href="/sobre">
-            <a> Acessar Página Sobre</a>
+            <a> Acessar Página Sobre 2</a>
             </Link>
         </div>
     
