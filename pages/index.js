@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 function Home(){
     return(
-        <div>
+        <div style="background-color:#00BFFF;text-align:center">
             <Link href="/sobre">
             <a> Acessar Página Sobre 2</a>
             </Link>
